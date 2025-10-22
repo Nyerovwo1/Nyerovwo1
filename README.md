@@ -20,7 +20,7 @@ This repository showcases projects related to **SOC operations, threat detection
 
 ## 📂 Projects  
 
-- [🔍 Phishing Email Analysis](./projects/phishing-email-analysis)  
+- [🔍 Phishing Email Analysis](https://github.com/Nyerovwo1/phishing-email-analysis.git)  
   *Investigating email headers and detecting phishing attempts.*  
 
 - [🖥️ Windows Log Investigation](./projects/windows-log-investigation)  
@@ -37,7 +37,7 @@ This repository showcases projects related to **SOC operations, threat detection
 ## 📫 Connect  
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🐙 [GitHub](https://github.com/yourusername)  
+- 🐙 [GitHub](https://github.com/Nyerovwo1/Nyerovwo1.git)  
 - ✉️ [Email Me](mailto:your@email.com)  
 
 ---
