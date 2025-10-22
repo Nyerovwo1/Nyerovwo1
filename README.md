@@ -1,6 +1,6 @@
 # 👨‍💻 SOC Analyst | Cybersecurity  
 
-Hi, I’m **Nyerovwo Obarueroro** — a Security Operations Center (SOC) Analyst with 3+ years of experience in **threat detection, incident response, and log analysis**.  
+Hi, I’m **Nyerovwo Obarueroro** a Security Operations Center (SOC) Analyst with 3+ years of experience in **threat detection, incident response, and log analysis**.  
 
 ---
 
