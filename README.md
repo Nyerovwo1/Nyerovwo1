@@ -23,8 +23,8 @@ This repository showcases projects related to **SOC operations, threat detection
 - [🔍 Phishing Email Analysis](https://github.com/Nyerovwo1/phishing-email-analysis.git)  
   *Investigating email headers and detecting phishing attempts.*  
 
-- [🖥️ Windows Log Investigation](./projects/windows-log-investigation)  
-  *Using Windows Event Logs for incident triage.*  
+- [🖥️ Malware Analysis (Static & Dynamic)](https://github.com/Nyerovwo1/Malware-Analysis-Static---Dynamic-Analysis-.git)  
+  ***Static analysis** examines malware without execution to identify characteristics and IOCs, while **dynamic analysis** runs the malware to observe its behavior and impact in a controlled environment.*  
 
 - [📊 Splunk Dashboards](./projects/splunk-dashboards)  
   *SIEM dashboards for threat monitoring and hunting.*  
