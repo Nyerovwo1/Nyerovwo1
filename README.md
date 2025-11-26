@@ -26,12 +26,14 @@ This repository showcases projects related to **SOC operations, threat detection
 - [🖥️ Malware Analysis (Static & Dynamic)](https://github.com/Nyerovwo1/Malware-Analysis-Static---Dynamic-Analysis-.git)  
   ***Static analysis** examines malware without execution to identify characteristics and IOCs, while **dynamic analysis** runs the malware to observe its behavior and impact in a controlled environment.*  
 
-- [📊 Splunk Dashboards](./projects/splunk-dashboards)  
-  *SIEM dashboards for threat monitoring and hunting.*  
+- [![alt text](image.png) Advanced Threat Actor Profiling](https://github.com/Nyerovwo1/Advanced-Threat-Actor-profiling.git)  
+  *MISP based threat actor profiling to enhance situational awareness, attribution, and cyber threat intelligence operations.*  
 
+- [wazuh malicious ip blocking](https://github.com/Nyerovwo1/wazuh-threat-detection-response.git) <br>
+  *From detection to prevention: Automated threat blocking with Wazuh SIEM.*
+  
 - [⚡ SOC Playbooks](./projects/soc-playbooks)  
-  *Step-by-step playbooks for handling alerts and incidents.*  
-
+  *Step-by-step playbooks for handling alerts and incidents.*
 ---
 
 ## 📫 Connect  
