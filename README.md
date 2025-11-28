@@ -29,7 +29,7 @@ This repository showcases projects related to **SOC operations, threat detection
 - [Advanced Threat Actor Profiling](https://github.com/Nyerovwo1/Advanced-Threat-Actor-profiling.git)  
   *MISP based threat actor profiling to enhance situational awareness, attribution, and cyber threat intelligence operations.*  
 
-  - [Apache Server Hardening & Network Threat Monitoring with Zeek](https://github.com/Nyerovwo1/Apache-server-hardening-Zeek-monitoring.git)  
+- [Apache Server Hardening & Network Threat Monitoring with Zeek](https://github.com/Nyerovwo1/Apache-server-hardening-Zeek-monitoring.git)  
   *Apache Hardening and Zeek Threat Monitoring for Complete Network Defense.* 
 
 - [wazuh malicious ip blocking](https://github.com/Nyerovwo1/wazuh-threat-detection-response.git) <br>
