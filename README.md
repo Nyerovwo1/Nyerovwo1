@@ -6,9 +6,9 @@ Hi, I’m **Nyerovwo Obarueroro** a Security Operations Center (SOC) Analyst wit
 
 ## 🔐 Skills  
 - SIEM: Splunk, Wazuh, Elastic  
-- Threat Hunting & IOC Analysis  
+- Threat Intelliigence & IOC Analysis  
 - Phishing & Malware Investigation  
-- PowerShell, Bash  
+- Microsoft Sentinel, IDS
 
 ---
 
@@ -26,8 +26,11 @@ This repository showcases projects related to **SOC operations, threat detection
 - [🖥️ Malware Analysis (Static & Dynamic)](https://github.com/Nyerovwo1/Malware-Analysis-Static---Dynamic-Analysis-.git)  
   ***Static analysis** examines malware without execution to identify characteristics and IOCs, while **dynamic analysis** runs the malware to observe its behavior and impact in a controlled environment.*  
 
-- [![alt text](image.png) Advanced Threat Actor Profiling](https://github.com/Nyerovwo1/Advanced-Threat-Actor-profiling.git)  
+- [Advanced Threat Actor Profiling](https://github.com/Nyerovwo1/Advanced-Threat-Actor-profiling.git)  
   *MISP based threat actor profiling to enhance situational awareness, attribution, and cyber threat intelligence operations.*  
+
+  - [Apache Server Hardening & Network Threat Monitoring with Zeek](https://github.com/Nyerovwo1/Apache-server-hardening-Zeek-monitoring.git)  
+  *Apache Hardening and Zeek Threat Monitoring for Complete Network Defense.* 
 
 - [wazuh malicious ip blocking](https://github.com/Nyerovwo1/wazuh-threat-detection-response.git) <br>
   *From detection to prevention: Automated threat blocking with Wazuh SIEM.*
