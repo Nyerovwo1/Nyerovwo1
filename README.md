@@ -1,20 +1,22 @@
-# 👨‍💻 SOC Analyst | Cybersecurity  
+# 👨‍💻  Cybersecurity  Analyst
 
-Hi, I’m **Nyerovwo Obarueroro** a Security Operations Center (SOC) Analyst with 3+ years of experience in **threat detection, incident response, and log analysis**.  
+Hi, I’m **Nyerovwo Obarueroro** a Cybersecurity Analyst with handson experience in **threat detection, incident response, and log analysis**.  
 
 ---
 
 ## 🔐 Skills  
 - SIEM: Splunk, Wazuh, Elastic  
 - Threat Intelliigence & IOC Analysis  
-- Phishing & Malware Investigation  
-- Microsoft Sentinel, IDS
+- Phishing & Malware Analysis
+- Microsoft Defender, IDS
+- Incident Response
+
 
 ---
 
-# 🔐 SOC Analyst Projects  
+# 🔐 Cybersecurity Analyst Projects  
 
-This repository showcases projects related to **SOC operations, threat detection, and incident response**.  
+This repository showcases projects related to **Threat Intelligence, Threat detection, and incident response**.  
 
 ---
 
