@@ -1,24 +1,29 @@
-# 👨‍💻  Cybersecurity  Analyst
+# 👨‍💻  Information Security Risk & Compliance Analyst
 
-Hi, I’m **Nyerovwo Obarueroro** a Cybersecurity Analyst with handson experience in **threat detection, incident response, and log analysis**.  
+Hi, I’m **Nyerovwo Obarueroro** an Information Security Risk & Compliance Analyst
+  with experience in **Risk Management, reegulatory requirements, and compliance monitoring. Skilled in conducting risk assesments, and control testing to ensure allingment with ISO 27001, NIST CSF and GDPR. Proficient in policy developemt, stakeholder management supporting internal and external audit activities to drive resilient operation and meet regulatory expectations.  
 
 ---
 
 ## 🔐 Skills  
-- SIEM: Splunk, Wazuh, Elastic  
-- Threat Intelliigence & IOC Analysis  
-- Phishing & Malware Analysis
-- Microsoft Defender, IDS
-- Incident Response
+- Risk Assesment & Management
+- Regualatry & Framework Knowledge (ISO 27001, ISO 42001, NIST CSF, GDPR, MITRE ATT&CK)
+- Policy development
+- Compliance Monitoring
+- Risk Register
+- Risk Mitigation
+- Design of Controls
+- Third Party Risk Management
+- SIEM  Tools
+- Threat Intelliigence  
+- Phishing
+- Vulnerability Assessment
 
 
 ---
 
-# 🔐 Cybersecurity Analyst Projects  
+# 🔐 Information Security Risk & Compliance Analyst Projects  
 
-This repository showcases projects related to **Threat Intelligence, Threat detection, and incident response**.  
-
----
 
 ## 📂 Projects  
 
