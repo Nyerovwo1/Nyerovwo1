@@ -14,7 +14,7 @@ Hi, I’m **Nyerovwo Obarueroro** an Information Security Risk & Compliance Anal
 - Risk Mitigation
 - Design of Controls
 - Third Party Risk Management
-- SIEM  Tools
+- SIEM Tool
 - Threat Intelliigence  
 - Phishing
 - Vulnerability Assessment
