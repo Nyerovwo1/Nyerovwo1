@@ -42,9 +42,7 @@ Hi, I’m **Nyerovwo Obarueroro** an Information Security Risk & Compliance Anal
 - [wazuh malicious ip blocking](https://github.com/Nyerovwo1/wazuh-threat-detection-response.git) <br>
   *From detection to prevention: Automated threat blocking with Wazuh SIEM.*
   
-- [⚡ SOC Playbooks](./projects/soc-playbooks)  
-  *Step-by-step playbooks for handling alerts and incidents.*
----
+
 
 ## 📫 Connect  
 
